@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name" translatable="false">LeiaAqui</string>
+    <string name="txtSenha">Senha</string>
+    <string name="txtSenha2">Confirmar Senha</string>
+    <string name="txtMatricula" translatable="false">Matricula</string>
+    <string name="txtEmail" translatable="false">E-mail</string>
+    <string name="btnEntrar" translatable="false">Entrar</string>
+    <string name="btnCadastrar" translatable="false">Cadastrar</string>
+    <string name="imageButtonLogo" />
+
+    //Itens para menu
+    <string name="open_drawer">Abrir</string>
+    <string name="close_drawer">Fechar</string>
+    <string name="img_cat_leitores">ImagemCatLeitores</string>
+    <string name="txtDescCatLeitores">DescricaoCatLeitores</string>
+    <string name="txtDiasEmprestimo">DiasMaximosDeLivro</string>
+    <string name="btnCadastrarCatLeitores">CadastrarCatLeitores</string>
+
+    //categoria leitores
+
+</resources>
